@@ -1,0 +1,1 @@
+projeto desenvolvido em java usando sockets para realizar a comunicação entre o usuário e a palavra seleciona de um jogo de forca
